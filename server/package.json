@@ -1,0 +1,1 @@
+{"name":"br4-multiplayer","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs"},"engines":{"node":">=22"},"dependencies":{"@colyseus/core":"0.18.30","@colyseus/ws-transport":"0.18.5"}}
